@@ -412,7 +412,7 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-**Priyank Mehta**
+**Harsh Dwivedi**
 
 
 If you found this project useful, consider giving the repository a ⭐.
